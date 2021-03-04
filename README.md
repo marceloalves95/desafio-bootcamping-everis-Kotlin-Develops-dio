@@ -1,10 +1,6 @@
 # desafio-bootcamping-everis-Kotlin-Develops-dio
 Projeto baseado nos desafios propostos pelo Bootcamping everis Kotlin Develops.
 
-<a name="ancora"></a>
-# Os 5 Granges Kages
-[Hokage](#ancora1)
-- 
 |       Desafio       |            Tema do Desafio               |  Nível do Desafio |      Respostas      |   
 |---------------------|------------------------------------------|-------------------|---------------------|
 |      [Desafio 1](#ancora1)      |    Introdução a Programação em Kotlin    |      Básico       |     Clique Aqui     |   
@@ -68,10 +64,3 @@ Imprima a saída conforme o exemplo fornecido.
 |                     |       5 25 125     |
 
 
-
-
-<a id="ancora1"></a>
-## Hokage
-> Loren Ipsum
-Donec nec mattis dui, quis sagittis magna. Praesent in sollicitudin erat, non molestie velit. Nam tempor metus et laoreet sodales. Sed eu mauris odio. Maecenas at feugiat mi. Nam venenatis accumsan mi, in dictum nisl. Phasellus laoreet nec sem at volutpat.
-[Topo](#ancora)
