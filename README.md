@@ -1,4 +1,4 @@
-# Desafio Bootcamping everis Kotlin Develops/Digital Innovation One
+# Desafio Bootcamping everis Kotlin Develops
 Projeto baseado nos desafios propostos pelo Bootcamping everis Kotlin Develops.
 
 |       Desafio                                        |            Tema do Desafio               |  Nível do Desafio |      Respostas      |   
