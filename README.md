@@ -1,5 +1,5 @@
 # Desafio Bootcamping everis Kotlin Develops
-Projeto baseado nos desafios propostos pelo Bootcamping everis Kotlin Develops.
+> Projeto baseado nos desafios propostos pelo Bootcamping everis Kotlin Develops.
 
 |       Desafio                                        |            Tema do Desafio               |  Nível do Desafio |      Respostas      |   
 |------------------------------------------------------|------------------------------------------|-------------------|---------------------|
@@ -70,6 +70,7 @@ Há um país denominado Lolipad, todos os habitantes ficam felizes em pagar seus
 Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, pois a faixa de salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. No exemplo fornecido (abaixo), a taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser impresso com duas casas decimais.
 Você terá o desafio de ler um valor com duas casas decimais, equivalente ao salário de uma pessoa de Loli. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
 
+![]()
 
 ## Entrada
 A entrada contém apenas um valor de ponto flutuante, com duas casas decimais.
@@ -207,7 +208,7 @@ Para cada linha de entrada (exceto a última) deve ser produzido uma linha de sa
 # <a id="ancora11"></a>[Desafio 11](#ancora11)
 Você tem em mãos dois cabos circulares de energia. O primeiro cabo tem raio R1 e o segundo raio R2. Você precisa comprar um conduite circular (veja a imagem abaixo que ilustra um conduite) de maneira a passar os dois cabos por dentro dele:
 
-
+![]
 
 Qual o menor raio do conduite que você deve comprar? Em outras palavras, dado dois círculos, qual o raio do menor círculo que possa englobar ambos os dois?
 
