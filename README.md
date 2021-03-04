@@ -61,3 +61,14 @@ Imprima a saída conforme o exemplo fornecido.
 |                     |       3 9 27       |
 |                     |       4 16 64      |
 |                     |       5 25 125     |
+
+<a name="ancora"></a>
+# Os 5 Granges Kages
+- [Hokage](#ancora1)
+
+
+<a id="ancora1"></a>
+## Hokage
+> Loren Ipsum
+Donec nec mattis dui, quis sagittis magna. Praesent in sollicitudin erat, non molestie velit. Nam tempor metus et laoreet sodales. Sed eu mauris odio. Maecenas at feugiat mi. Nam venenatis accumsan mi, in dictum nisl. Phasellus laoreet nec sem at volutpat.
+[Topo](#ancora)
