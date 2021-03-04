@@ -2,19 +2,19 @@
 > Projeto baseado nos desafios propostos pelo Bootcamping everis Kotlin Develops.
 <a name="ancora"></a>
 
-|       Desafio                  |            Tema do Desafio               |  Nível do Desafio |      Respostas      |   
-|--------------------------------|------------------------------------------|-------------------|---------------------|
-|      [Desafio 1](#ancora1)     |    Introdução a Programação em Kotlin    |      Básico       |      Resolução      |   
-|      [Desafio 2](#ancora2)     |    Introdução a Programação em Kotlin    |      Básico       |      Resolução      |   
-|      [Desafio 3](#ancora3)     |    Introdução a Programação em Kotlin    |      Básico       |      Resolução      |   
-|      [Desafio 4](#ancora4)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução      |   
-|      [Desafio 5](#ancora5)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução      |   
-|      [Desafio 6](#ancora6)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução      |   
-|      [Desafio 7](#ancora7)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução      |   
-|      [Desafio 8](#ancora8)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução      |   
-|      [Desafio 9](#ancora9)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução      |   
-|      [Desafio 10](#ancora10)   |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução      |   
-|      [Desafio 11](#ancora11)   |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução      |   
+|       Desafio                  |            Tema do Desafio               |  Nível do Desafio |                   Respostas                   |
+|--------------------------------|------------------------------------------|-------------------|-----------------------------------------------|
+|      [Desafio 1](#ancora1)     |    Introdução a Programação em Kotlin    |      Básico       |      [Resolução](src/desafios/Desafio1.kt)    |   
+|      [Desafio 2](#ancora2)     |    Introdução a Programação em Kotlin    |      Básico       |      Resolução                                |   
+|      [Desafio 3](#ancora3)     |    Introdução a Programação em Kotlin    |      Básico       |      Resolução                                |   
+|      [Desafio 4](#ancora4)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
+|      [Desafio 5](#ancora5)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
+|      [Desafio 6](#ancora6)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
+|      [Desafio 7](#ancora7)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
+|      [Desafio 8](#ancora8)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
+|      [Desafio 9](#ancora9)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
+|      [Desafio 10](#ancora10)   |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
+|      [Desafio 11](#ancora11)   |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
  
   
 # <a id="ancora1"></a>[Desafio 1](#ancora)
