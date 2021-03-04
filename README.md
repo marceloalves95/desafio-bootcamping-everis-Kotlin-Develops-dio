@@ -2,21 +2,22 @@
 Projeto baseado nos desafios propostos pelo Bootcamping everis Kotlin Develops.
 
 
-|       Desafio       |            Tema do Desafio               |  Nível do Desafio |      Respostas      |   
-|---------------------|------------------------------------------|-------------------|---------------------|
-|      <a name="ancora"></a>[Desafio 1](#ancora1)      |    Introdução a Programação em Kotlin    |      Básico       |     Clique Aqui     |   
-|      Desafio 2      |    Introdução a Programação em Kotlin    |      Básico       |     Clique Aqui     |   
-|      Desafio 3      |    Introdução a Programação em Kotlin    |      Básico       |     Clique Aqui     |   
-|      Desafio 4      |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
-|      Desafio 5      |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
-|      Desafio 6      |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
-|      Desafio 7      |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
-|      Desafio 8      |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
-|      Desafio 9      |    Praticando Programação em Kotlin      |   Intermediário   |     Clique Aqui     |   
-|      Desafio 10     |    Praticando Programação em Kotlin      |   Intermediário   |     Clique Aqui     |   
-|      Desafio 11     |    Praticando Programação em Kotlin      |   Intermediário   |     Clique Aqui     |   
+|       Desafio                                        |            Tema do Desafio               |  Nível do Desafio |      Respostas      |   
+|------------------------------------------------------|------------------------------------------|-------------------|---------------------|
+|      <a name="ancora1"></a>[Desafio 1](#ancora1)     |    Introdução a Programação em Kotlin    |      Básico       |     Clique Aqui     |   
+|      <a name="ancora2"></a>[Desafio 2](#ancora2)     |    Introdução a Programação em Kotlin    |      Básico       |     Clique Aqui     |   
+|      <a name="ancora3"></a>[Desafio 3](#ancora3)     |    Introdução a Programação em Kotlin    |      Básico       |     Clique Aqui     |   
+|      <a name="ancora4"></a>[Desafio 4](#ancora4)     |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
+|      <a name="ancora5"></a>[Desafio 5](#ancora5)     |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
+|      <a name="ancora6"></a>[Desafio 6](#ancora6)     |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
+|      <a name="ancora7"></a>[Desafio 7](#ancora7)     |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
+|      <a name="ancora8"></a>[Desafio 8](#ancora8)     |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
+|      <a name="ancora9"></a>[Desafio 9](#ancora9)     |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
+|      <a name="ancora10"></a>[Desafio 10](#ancora10)  |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
+|      <a name="ancora11"></a>[Desafio 11](#ancora11)  |    Solucionando Problemas com Kotlin     |   Intermediário   |     Clique Aqui     |   
+ 
   
-# <a id="ancora1"></a>[Desafio 1](#ancora)
+# <a id="ancora1"></a>[Desafio 1](#ancora1)
 Leia dois valores inteiros identificados como variáveis A e B. Calcule a soma entre elas e chame essa variável de SOMA.
 A seguir escreva o valor desta variável.
 
@@ -31,7 +32,7 @@ Imprima a variável SOMA com todas as letras maiúsculas, inserindo um espaço e
 |        10           |    Soma = 40       |    
 |        20           |                    |  
 
-# Desafio 2
+# <a id="ancora2"></a>[Desafio 2](#ancora2)
 Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
 
 ## Entrada
@@ -47,7 +48,7 @@ Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
 |                     |         5          |
 |                     |         7          |
 
-# Desafio 3
+# <a id="ancora3"></a>[Desafio 3](#ancora3)
 Você terá o desafio de escrever um programa que leia um valor inteiro N (1 < N < 1000). Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.
 
 ## Entrada
@@ -64,4 +65,11 @@ Imprima a saída conforme o exemplo fornecido.
 |                     |       4 16 64      |
 |                     |       5 25 125     |
 
-
+# <a id="ancora4"></a>[Desafio 4](#ancora4)
+# <a id="ancora5"></a>[Desafio 5](#ancora5)
+# <a id="ancora6"></a>[Desafio 6](#ancora6)
+# <a id="ancora7"></a>[Desafio 7](#ancora7)
+# <a id="ancora8"></a>[Desafio 8](#ancora8)
+# <a id="ancora9"></a>[Desafio 9](#ancora9)
+# <a id="ancora10"></a>[Desafio 10](#ancora10)
+# <a id="ancora11"></a>[Desafio 11](#ancora11)
