@@ -16,13 +16,11 @@ fun main() {
 
         }
 
-
     }
     for (i in inteiros){
 
         println(i)
 
     }
-
 
 }
