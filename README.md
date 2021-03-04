@@ -5,16 +5,16 @@
 |       Desafio                  |            Tema do Desafio               |  Nível do Desafio |                   Respostas                   |
 |--------------------------------|------------------------------------------|-------------------|-----------------------------------------------|
 |      [Desafio 1](#ancora1)     |    Introdução a Programação em Kotlin    |      Básico       |      [Resolução](src/desafios/Desafio1.kt)    |   
-|      [Desafio 2](#ancora2)     |    Introdução a Programação em Kotlin    |      Básico       |      Resolução                                |   
-|      [Desafio 3](#ancora3)     |    Introdução a Programação em Kotlin    |      Básico       |      Resolução                                |   
-|      [Desafio 4](#ancora4)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
-|      [Desafio 5](#ancora5)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
-|      [Desafio 6](#ancora6)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
-|      [Desafio 7](#ancora7)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
-|      [Desafio 8](#ancora8)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
-|      [Desafio 9](#ancora9)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
-|      [Desafio 10](#ancora10)   |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
-|      [Desafio 11](#ancora11)   |    Solucionando Problemas com Kotlin     |   Intermediário   |      Resolução                                |   
+|      [Desafio 2](#ancora2)     |    Introdução a Programação em Kotlin    |      Básico       |      [Resolução](src/desafios/Desafio2.kt)    |   
+|      [Desafio 3](#ancora3)     |    Introdução a Programação em Kotlin    |      Básico       |      [Resolução](src/desafios/Desafio3.kt)    |   
+|      [Desafio 4](#ancora4)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      [Resolução](src/desafios/Desafio4.kt)    |   
+|      [Desafio 5](#ancora5)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      [Resolução](src/desafios/Desafio5.kt)    |   
+|      [Desafio 6](#ancora6)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      [Resolução](src/desafios/Desafio6.kt)    |   
+|      [Desafio 7](#ancora7)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      [Resolução](src/desafios/Desafio7.kt)    |   
+|      [Desafio 8](#ancora8)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      [Resolução](src/desafios/Desafio8.kt)    |   
+|      [Desafio 9](#ancora9)     |    Solucionando Problemas com Kotlin     |   Intermediário   |      [Resolução](src/desafios/Desafio9.kt)    |   
+|      [Desafio 10](#ancora10)   |    Solucionando Problemas com Kotlin     |   Intermediário   |      [Resolução](src/desafios/Desafio10.kt)   |   
+|      [Desafio 11](#ancora11)   |    Solucionando Problemas com Kotlin     |   Intermediário   |      [Resolução](src/desafios/Desafio11.kt)   |   
  
   
 # <a id="ancora1"></a>[Desafio 1](#ancora)
